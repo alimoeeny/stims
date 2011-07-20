@@ -1,0 +1,12 @@
+mD=0.001  #values of disp < this get the idisp set, otherwise matches disp
+e2=Id    # expt2 is idisp
+n2=2
+i2=0.2   #+- 0.1
+m2=0	 #
+ns=30	 # initial period for the stationary bit, in frames
+jx=0.0  # need finite lifetime else idisp is different
+sa=3  
+op=-ic-if-ff
+op=+2a
+over 
+sq=0

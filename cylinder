@@ -1,0 +1,24 @@
+mo=back
+st=none
+mo=fore
+st=cylinder
+nf=120
+fw=0.8
+sz=10
+et=dx
+nt=6
+ei=0.2
+em=0
+co=1
+jv=10
+tr=1.0
+r1=0.12
+r2=0.18
+r3=0.3
+e2=e0 #was tr
+m2=0.55
+n2=2
+i2=0.3
+jx=0.01
+over
+op=-2a
